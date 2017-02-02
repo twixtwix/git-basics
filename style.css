@@ -3,3 +3,7 @@
 div {
 	color: red;
 }
+
+* {
+	text-decoration-style: dashed;
+}
